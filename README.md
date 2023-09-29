@@ -20,4 +20,4 @@ Each project comes with detailed documentation and step-by-step instructions to 
 
 ## Getting Started
 
-To get started with any of the projects in this repository, refer to the project's README for prerequisites and installation instructions. You'll find everything you need to begin your GCP journey!!
+To get started with any of the projects in this repository, refer to the project's README for prerequisites and installation instructions. You'll find everything you need to begin your GCP journey!
