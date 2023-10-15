@@ -58,7 +58,7 @@ Let us understand how to manage files in Dataproc using HDFS Commands.
 * Quick recap of HDFS Commands to manage files.
 * Review files in GCS using `gsutil`.
 * Review local data sets setup using GitHub repository.
-* Copy retail_db data set to HDFS from [Dataproc Image Version Lists](https://cloud.google.com/dataproc/docs/concepts/versioning/dataproc-version-clusters).
+* Copy [retail_db](https://cloud.google.com/dataproc/docs/concepts/versioning/dataproc-version-clusters) from the ScriptBox folder within this repo.
 * Copy retail_db data set to HDFS from GCS.
 
 ```shell
