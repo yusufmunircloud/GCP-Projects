@@ -4,8 +4,8 @@
 
 Welcome to the GCP Projects Repository! This GitHub repository showcases practical projects that demonstrate various Google Cloud Platform (GCP) features. These projects cater to different levels of expertise and are accompanied by comprehensive documentation and step-by-step instructions for easy implementation. Whether you're new to GCP or an experienced developer, you'll find projects that suit your level of expertise.
 
-![Alt Text](https://miro.medium.com/v2/resize:fit:4800/format:webp/0*syZuwQ5oo2vUnZQ3.jpeg)
-
+![](https://miro.medium.com/v2/resize:fit:4800/format:webp/0*syZuwQ5oo2vUnZQ3.jpeg)
+![](https://miro.medium.com/v2/resize:fit:1057/1*oMpMxxslNHguJlZ8so1phw.png)
 
 
 ## About
