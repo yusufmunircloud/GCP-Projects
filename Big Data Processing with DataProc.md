@@ -19,8 +19,7 @@ Here are the some of the key features of GCP Dataproc.
 * Dataproc is well integrated with other GCP Services such as GCS, Big Query, etc.
 
 ## Getting Started with GCP Dataproc
-Let us understand how to get started with GCP Dataproc. As part of this lecture we will review details related to GCP Dataproc using GCP Web UI.
-* Go to GCP Web UI and enable Dataproc in relevant project.
+* Go to GCP Web UI and enable the Dataproc API in your relevant project.
 * Here are different types of clusters we can setup using GCP Dataproc.
   * Single Node or Multi-Node Clusters typically for development and testing of the Hadoop and Spark Applications.
   * Large Scale Multi-Node Clusters for Production Environment.
@@ -49,8 +48,7 @@ Let us go ahead and configure Network Connectivity to Dataproc Cluster. We typic
 * Exit and Validate using SSH to see if connection to the Master Node of the Dataproc Cluster is working as expected or not.
 
 ## Remote Development using VS Code on Dataproc
-Let us go through the details about setting up remote development using VS Code on Dataproc.
-* Make sure Dataproc Cluster is up and running and static ip is configured and validated.
+* Make sure your Dataproc Cluster is up and running and static ip is configured and validated.
 * Make sure to setup VS Code along with Remote Development Extension Pack.
 * Configure Remote Connection using VS Code.
 * Setup Workspace and clone this repository. Make sure to review the workspace once repository is setup.
@@ -214,7 +212,7 @@ As part of this lecture we will modularize Dataproc Applications as Multiple Job
 * Convert `orders` and `order_items` to **Parquet File Format**. We will have
 * Compute Daily Product Revenue and save the result to Google Cloud Storage.
 
-Refer to respective scripts under scripts folder in our Git Repository. Make sure to copy the scripts into GCS and run directly using `spark-sql` on Dataproc Cluster for unit testing.
+Make sure to copy the scripts into GCS and run directly using `spark-sql` on Dataproc Cluster for unit testing.
 
 Here are the commands used to validate local scripts using `spark-sql`.
 
