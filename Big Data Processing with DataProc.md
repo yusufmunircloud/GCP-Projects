@@ -32,7 +32,7 @@ Here are the some of the key features of GCP Dataproc.
 Let us go ahead and setup Single Node Dataproc Cluster for Development.
 * Make sure to review [Dataproc Image Version Lists](https://cloud.google.com/dataproc/docs/concepts/versioning/dataproc-version-clusters).
 * Make sure to create cluster using following configurations so that development environment can be setup.
-  * Cluster Name: **aidataprocdev**
+  * Cluster Name: **mydataprocdev**
   * Location: Based on your preference
   * Cluster type: **Single Node**
   * Components: Enable component gateway (so that we can access Web Interfaces such as Spark UI)
